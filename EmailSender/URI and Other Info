@@ -1,0 +1,14 @@
+Simple Spring boot application to send: 
+1. Simple email with text body. 
+2. Email with attachment
+
+Important :- 
+Before Running this application make sure to do below steps. As they are required for configuration.
+
+A)
+Go to Gmail -> Manage Your Google Account -> Security -> App Password -> Choose other(Custom.
+name from the drop down) and click on "Generate" -> 
+Note down the generated password and use it in application.properties
+
+B)
+Check the main class and give the file name according to your PC/
